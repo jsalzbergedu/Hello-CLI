@@ -1,1 +1,12 @@
 Hello CLI!
+
+Remember, you can use such commands as
+
+$ git remote add origin <remote_url>
+$ git push origin master
+$ git add <filename>
+$ git commit -m "explanation"
+$ git status
+
+Cool stuff!!
+
